@@ -1,4 +1,4 @@
-# [Your Project Name]
+# [Chat Application]
 
 Welcome to Chat-Application! This repository contains the source code for react-firebase chat application.
 
