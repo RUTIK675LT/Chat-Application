@@ -22,4 +22,7 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 4. Start the development server -
    
    `npm start`
+5. Open a web browser and watch the app run on-
+
+    `localhost:3000/`
  
