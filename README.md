@@ -1,6 +1,6 @@
-# [Chat Application]
+# Chat Application
 
-Welcome to Chat-Application! This repository contains the source code for react-firebase chat application.
+Welcome to the Chat-Application! This repository contains the source code for react-firebase chat application.
 
 ## Getting Started
 
