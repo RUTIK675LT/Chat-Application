@@ -14,9 +14,12 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
 1. **Navigate to the project folder**
 2. Install npm using command in terminal -
+   
    `npm install`
 3. Install react scripts using command -
+   
    `npm install react-scripts --save`
 4. Start the development server -
+   
    `npm start`
  
